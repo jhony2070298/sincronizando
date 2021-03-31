@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ScriptTaskWilmer", "ScriptTaskWilmer.dtproj", "{5B7DB66E-4A6F-479F-8F1E-98F988B3BE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7DB66E-4A6F-479F-8F1E-98F988B3BE40}.Development|Default.ActiveCfg = Development
+		{5B7DB66E-4A6F-479F-8F1E-98F988B3BE40}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4BED32B-FF8C-4DC9-A0D8-5EC08CED4287}
+	EndGlobalSection
+EndGlobal
